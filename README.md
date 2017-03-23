@@ -12,7 +12,7 @@
 # Installation
 
 ```shell
-$ composer require "zhengg/easy-ihuyi"
+$ composer require "zhenggg/easy-ihuyi"
 ```
 
 # Usage
