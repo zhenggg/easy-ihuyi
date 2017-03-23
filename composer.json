@@ -1,5 +1,5 @@
 {
-    "name": "zhenggg/eazy-ihuyi",
+    "name": "zhenggg/easy-ihuyi",
     "description": "互亿无线SDK",
     "keywords": [
         "ihuyi",
@@ -13,7 +13,7 @@
         {
             "name": "zhenggg",
             "email": "bianzhenggg@gmail.com",
-            "homepage": "https://github.com/zhenggg/eazy-ihuyi"
+            "homepage": "https://github.com/zhenggg/easy-ihuyi"
         }
     ],
     "require": {
